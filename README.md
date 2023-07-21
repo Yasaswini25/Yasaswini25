@@ -1,6 +1,6 @@
 ## HELLO 👋
 ## My Skills
-[![skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,mysql,php&perline=5)](https://skillicons.dev)
 [![skills](https://skillicons.dev/icons?i=c,cpp,java,visualstudiofigma&theme=light)](https://skillicons.dev)
 
 <!--
