@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😁
+## My Work
+### Personal Website
+Deployment-link:-https://yasaswini25.github.io/Personal-website/
+#### Landing page
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p1.png)
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p2.png)
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p3.png)
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p4.png)
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p5.png)
+![landing](https://github.com/Yasaswini25/Personal-website/blob/main/ss/p6.png)
+
+
