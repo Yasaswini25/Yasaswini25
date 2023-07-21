@@ -1,4 +1,7 @@
-### Hi there 👋
+## HELLO 👋
+## Skills
+[![skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=c,cpp,java,visualstudiofigma&theme=light)](https://skillicons.dev)
 
 <!--
 **Yasaswini25/Yasaswini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
