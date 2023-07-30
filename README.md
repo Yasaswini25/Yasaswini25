@@ -39,3 +39,7 @@ Deployment-link:-https://yasaswini25.github.io/contact-form/
 #### Video
 Please open the link of video to watch responsive carousel slider,active pre and next buttons.
 ![video](https://github.com/Yasaswini25/Hotstar-clone/blob/main/v.mp4)
+### To-Do-list
+Deployment-link:-https://yasaswini25.github.io/to-do-list/
+#### Landing page
+![landing](https://github.com/Yasaswini25/to-do-list/blob/main/Screenshot%202023-07-30%20191328.png)
