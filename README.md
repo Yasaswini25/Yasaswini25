@@ -32,6 +32,7 @@ Deployment-link:-https://yasaswini25.github.io/contact-form/
 #### Landing page
 ![landing](https://github.com/Yasaswini25/contact-form/blob/main/Screenshot%202023-07-22%20000644.png)
 ### Hotstar_clone
+Deployment-link:-https://yasaswini25.github.io/Hotstar-clone/
 #### Landing page
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l1.png)
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l2.png)
