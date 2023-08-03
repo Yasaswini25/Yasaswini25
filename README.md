@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ## My Work
 ### Restaurant-website 
-Deployment-link:-https://yasaswini25.github.io/Restaurant-website/
+Deployment-link:- https://yasaswini25.github.io/restaurant-website/
 ### Landing page
 ![landing](https://github.com/Yasaswini25/Restaurant-website/blob/main/ss/Screenshot%202023-08-03%20001122.png)
 ![landing](https://github.com/Yasaswini25/Restaurant-website/blob/main/ss/Screenshot%202023-08-03%20001222.png)
@@ -45,7 +45,7 @@ Deployment-link:-https://yasaswini25.github.io/contact-form/
 #### Landing page
 ![landing](https://github.com/Yasaswini25/contact-form/blob/main/Screenshot%202023-07-22%20000644.png)
 ### Hotstar_clone
-Deployment-link:-https://yasaswini25.github.io/Hotstar-clone/
+Deployment-link:- https://yasaswini25.github.io/hotstar-clone/
 #### Landing page
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l1.png)
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l2.png)
