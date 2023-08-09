@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Work
+### Quote-Generator
+Deployment-link:-https://yasaswini25.github.io/quote-generator/
+### Landing page
+![landing](https://github.com/Yasaswini25/quote-generator/blob/main/Screenshot%202023-08-10%20004558.png)
 ### Restaurant-website 
 Deployment-link:- https://yasaswini25.github.io/restaurant-website/
 ### Landing page
