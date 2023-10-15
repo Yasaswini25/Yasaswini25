@@ -1,10 +1,11 @@
+<div align="center">
 ## HELLO BUSY PEOPLE
 ### Iam Yasaswini
 
 ![landing](https://github.com/Yasaswini25/Yasaswini25/blob/main/profile1.png)
 
 ## My Skills
-### Tools and Technologies
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="30" />
@@ -34,7 +35,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
   <img width="30" />
- 
+ </div>
 
 <!--
 **Yasaswini25/Yasaswini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
