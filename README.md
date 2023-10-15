@@ -1,7 +1,7 @@
 <div align="center">
 ## HELLO BUSY PEOPLE
 ### Iam Yasaswini
-
+</div>
 ![landing](https://github.com/Yasaswini25/Yasaswini25/blob/main/profile1.png)
 
 ## My Skills
