@@ -1,6 +1,6 @@
 ## HELLO BUSY PEOPLE
 
-![landing](https://github.com/Yasaswini25/Yasaswini25/blob/main/profile.png)
+![landing](https://github.com/Yasaswini25/Yasaswini25/blob/main/profile1.png)
 
 ## Skills
 [![skills](https://skillicons.dev/icons?i=html,css,js,mysql,php&perline=5)](https://skillicons.dev)
