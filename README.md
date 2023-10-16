@@ -1,6 +1,6 @@
 '"<h2 align="center"> HELLO BUSY PEOPLE</h2>
 <h2 align="center"> This is Yasaswini</h2>
-  <img src="https://github.com/Yasaswini25/Yasaswini25/blob/main/profile1.png" height="500" justify-content: "center" align="center" alt="c logo"  />
+  <img src="https://github.com/Yasaswini25/Yasaswini25/blob/main/profile1.png" height="500" padding= "10 10 10 10"  alt="c logo"  />
 
 
 ## My Skills
